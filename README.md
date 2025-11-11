@@ -6,8 +6,9 @@
   <img src="images/logoDaiNam.png" alt="University Logo" width="200"/>
 </p>
 
-[![Made by Your Name](https://img.shields.io/badge/Made%20by-Your%20Name-blue?style=for-the-badge)](#)
-[![University](https://img.shields.io/badge/University-Name-red?style=for-the-badge)](#)
+[![Made by Nguyễn Thành Trung](https://img.shields.io/badge/Made%20by-Chu%20Van%20Huy-blue?style=for-the-badge)](https://github.com/chuvanhuy)
+[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
 
